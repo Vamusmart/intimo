@@ -1,6 +1,6 @@
-# Responsive HuddleLandingPage
+# Responsive Intimo
 
-The helloPlayground Landing Page is a Playground challenge. I've been given a design to follow with an assets folder by the Playground team, which I've implemented in a responsive website using JS line codes for managing the slider, navbar, contact form and the cookies bar.
+The Intimo Landing Page is a Playground challenge. I've been given a design to follow with an assets folder by the Playground team, which I've implemented in a responsive website using JS line codes for managing the slider, navbar, contact form and the cookies bar.
 
 # Implementation
 
